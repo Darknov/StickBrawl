@@ -1,4 +1,4 @@
-var joint1 = new Joint(683,384);
+var joint1 = new Joint(300,300);
 var joint2 = new Joint();
 var joint3 = new Joint();
 var joint4 = new Joint();
